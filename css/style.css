@@ -1,0 +1,41 @@
+/* navbar */
+.anchor {
+  text-decoration: none;
+  color: rgb(194, 186, 186);
+}
+
+.anchor:hover {
+  color: #fff;
+  background-color: transparent;
+}
+
+.navbar {
+  background-image: linear-gradient(#a681dd, #221830 );
+}
+
+.navbar a {
+  font-size: 150%;
+}
+
+.main-body {
+  background-color: rgb(226, 221, 219);
+}
+
+.body .titles {
+  font-size: 60px;
+  margin-top: -50px;
+}
+
+.image img {
+  height: 700px;
+  width: 800px;
+}
+
+footer {
+  height: 50px;
+  padding: 10px 0;
+  margin-top: 106px;
+  background-image:linear-gradient(to bottom left, #63498a, #362e42);
+}
+
+
